@@ -1,4 +1,3 @@
-menu drop down nya bisa di ganti yg minimalist ga ini?
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/1472852477593391267/1472970393626349700/banner_hd.png?ex=69948214&is=69933094&hm=fb8022a81745167759c946c102009fd1c757e8be1a7e3cf9aae7f14ab5a2f817&" width="100%">
 </p>
