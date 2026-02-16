@@ -149,6 +149,7 @@ Below is the list of the latest updates. Click on each version to see the new ic
 
 ![FOLDER 19 Preview](https://cdn.discordapp.com/attachments/1472852477593391267/1472972443407876267/9F24A5CA-6BA9-4FC0-9070-154FBF807905.png?ex=699483fd&is=6993327d&hm=0e4f1689f47f966328ff2ad85ff2b2b9a36f8f885c486fb93d879de3462b8709&)
 </details>
+
 ---
 
 ## ☕ Support My Work
