@@ -12,15 +12,6 @@ Feel free to explore the folders, and if you find these icons useful, a star ⭐
 
 ---
 
-## 📥 Get the Latest Version
-Click the link below to access the Google Drive folder. This folder is the "source of truth"—it will always contain the most up-to-date files.
-
-### 🚀 [Download Here](https://drive.google.com/drive/folders/184CaIDaMipLkhMaA9Pgp33-9xZNZNq2R)
-
-> **Pro Tip:** I use the "Manage Versions" feature on Google Drive to ensure this link always points to the newest files without changing the URL!
-
----
-
 ## 📸 What's New? (Visual Changelog)
 
 Below is the list of the latest updates. Click on each version to see the new icon previews and details.
@@ -170,6 +161,15 @@ Below is the list of the latest updates. Click on each version to see the new ic
 This project is a labor of love, and I intend to keep it free forever. If my work has saved you time or added value to your project, please consider buying me a coffee. Your support helps me cover hosting costs and keeps the updates coming!
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Donate-orange?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://sibagi.com/dayum)
+
+---
+
+## 📥 Get the Latest Version
+Click the link below to access the Google Drive folder. This folder is the "source of truth"—it will always contain the most up-to-date files.
+
+### 🚀 [Download Here](https://drive.google.com/drive/folders/184CaIDaMipLkhMaA9Pgp33-9xZNZNq2R)
+
+> **Pro Tip:** I use the "Manage Versions" feature on Google Drive to ensure this link always points to the newest files without changing the URL!
 
 ---
 
