@@ -175,7 +175,7 @@ This project is a labor of love, and I intend to keep it free forever. If my wor
 
 ## 📝 License & Usage
 * **Personal & Commercial:** You are free to use these icons in any project.
-* **Attribution:** Not required, but greatly appreciated! (e.g., "Icons by [Your Name]")
+* **Attribution:** Not required, but greatly appreciated! (e.g., "Icons by [Skrupsyyy]")
 * **Restriction:** You may **not** resell these icons as a standalone pack or claim them as your own creation.
 
 ---
