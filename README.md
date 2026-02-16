@@ -165,11 +165,11 @@ This project is a labor of love, and I intend to keep it free forever. If my wor
 ---
 
 ## 📥 Get the Latest Version
-Click the link below to access the Google Drive folder. This folder is the "source of truth"—it will always contain the most up-to-date files.
+Click the button below to access the Google Drive folder. This folder will always contain the most up-to-date files.
 
-### 🚀 [Download Here](https://drive.google.com/drive/folders/184CaIDaMipLkhMaA9Pgp33-9xZNZNq2R)
+[![Download Now](https://img.shields.io/badge/DOWNLOAD-Latest_Version-blue?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/184CaIDaMipLkhMaA9Pgp33-9xZNZNq2R)
 
-> **Pro Tip:** I use the "Manage Versions" feature on Google Drive to ensure this link always points to the newest files without changing the URL!
+> **Pro Tip:** I use the "Manage Versions" feature on Google Drive to ensure this link always points to the newest files!
 
 ---
 
