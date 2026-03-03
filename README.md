@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1472852477593391267/1472970393626349700/banner_hd.png?ex=69948214&is=69933094&hm=fb8022a81745167759c946c102009fd1c757e8be1a7e3cf9aae7f14ab5a2f817&" width="100%">
+  <img src="https://cdn.discordapp.com/attachments/1472852477593391267/1472970393626349700/banner_hd.png?ex=69a79fd4&is=69a64e54&hm=bf2f83e60d7c543160f705079a6ee9e5d1ff69e0004626d28112c3050d034c00&" width="100%">
 </p>
 
 # 🎨 My Premium Icon Pack Collection
@@ -18,11 +18,11 @@ Explore the latest additions to the collection. Click on **"View Preview"** to r
 
 | 📁 Collection Folder | 👁️ Quick Preview (Click to Expand) |
 | :--- | :--- |
-| **FOLDER 01** | <details><summary>View Preview</summary><br>![F1](https://cdn.discordapp.com/attachments/1472852477593391267/1472970562036043939/6A0BFD92-55C9-40BD-B565-2C9AD46D674B.png?ex=6994823c&is=699330bc&hm=b2c3faacf75d5b63caafadf2ec9605231630a31eb892a9915903d46881c07e33&)</details> |
-| **FOLDER 02** | <details><summary>View Preview</summary><br>![F2](https://cdn.discordapp.com/attachments/1472852477593391267/1472970658685386951/D9AEA791-692F-4E3D-8CA3-110CEC3F084E.png?ex=69948253&is=699330d3&hm=69b72cc907f6e54f1232752fdb32335c614ea50d052778e3f37fb672e0583417&)</details> |
-| **FOLDER 03** | <details><summary>View Preview</summary><br>![F3](https://cdn.discordapp.com/attachments/1472852477593391267/1472970749164654624/0A6FBF39-6EFA-42AD-BEC8-3534FECE7120.png?ex=69948269&is=699330e9&hm=ea836c83bd7382836e2751cd14c38b79e88fc2640dabfd410cfcc72543bd12f1&)</details> |
-| **FOLDER 04** | <details><summary>View Preview</summary><br>![F4](https://cdn.discordapp.com/attachments/1472852477593391267/1472970877875519603/B8CF1D73-F4BC-4D1D-A4E5-0DA27010A02F.png?ex=69948287&is=69933107&hm=a1cc85e8d27e8fa3b1fa206f62a755c9ca74e47b1ec9c34218ef8a45075bc012&)</details> |
-| **FOLDER 05** | <details><summary>View Preview</summary><br>![F5](https://cdn.discordapp.com/attachments/1472852477593391267/1472970991146897428/FA7FD556-2C71-444D-B1C3-748AFEE80820.png?ex=699482a2&is=69933122&hm=360dba6f497819f82650e923f7c98cffc95bb80b3598648459e78e3387c7ed36&)</details> |
+| **FOLDER 01** | <details><summary>View Preview</summary><br>![F1](https://cdn.discordapp.com/attachments/1472852477593391267/1472970562036043939/6A0BFD92-55C9-40BD-B565-2C9AD46D674B.png?ex=69a79ffc&is=69a64e7c&hm=4fc3380a058051f7cd70a15b3721a0e6f44576e2a2fea8460fff57542a722355&)</details> |
+| **FOLDER 02** | <details><summary>View Preview</summary><br>![F2](https://cdn.discordapp.com/attachments/1472852477593391267/1472970658685386951/D9AEA791-692F-4E3D-8CA3-110CEC3F084E.png?ex=69a7a013&is=69a64e93&hm=a0f5f574e7e704b074a154f5a6c8c06a30f7a06a48e4cff77222f8257a3aa303&)</details> |
+| **FOLDER 03** | <details><summary>View Preview</summary><br>![F3](https://cdn.discordapp.com/attachments/1472852477593391267/1472970749164654624/0A6FBF39-6EFA-42AD-BEC8-3534FECE7120.png?ex=69a7a029&is=69a64ea9&hm=fa161b72af2d1f1ee1ecd983e651db05728b182729a5e5233f61f93759f162b5&)</details> |
+| **FOLDER 04** | <details><summary>View Preview</summary><br>![F4](https://cdn.discordapp.com/attachments/1472852477593391267/1472970877875519603/B8CF1D73-F4BC-4D1D-A4E5-0DA27010A02F.png?ex=69a7a047&is=69a64ec7&hm=f075d4a66dfcde998132da8c01bfd863453d89034f2aa4a60f88ddb6b76a6f90&)</details> |
+| **FOLDER 05** | <details><summary>View Preview</summary><br>![F5](https://cdn.discordapp.com/attachments/1472852477593391267/1472970991146897428/FA7FD556-2C71-444D-B1C3-748AFEE80820.png?ex=69a7a062&is=69a64ee2&hm=98c0565ee411b24eede11cfe11637f23f381b5fc596ea5369de8543ee10d2630&)</details> |
 | **FOLDER 06** | <details><summary>View Preview</summary><br>![F6](https://cdn.discordapp.com/attachments/1472852477593391267/1472971159938138163/D26B5B2F-F909-459B-9BE1-DDF179B5D304.png?ex=69a7a08b&is=69a64f0b&hm=054e88de5a337e54fd25ae9056978a82af60ac87b028f0f752ac3494c7b2f693&)</details> |
 | **FOLDER 07** | <details><summary>View Preview</summary><br>![F7](https://cdn.discordapp.com/attachments/1472852477593391267/1472971265210974259/4B4752AF-34DD-408F-9D82-DD6FA9183AE4.png?ex=69a7a0a4&is=69a64f24&hm=47c77cffbb64d5a5d960be084d4a4e15a666c6696c759acc12a05a039d455c4e&)</details> |
 | **FOLDER 08** | <details><summary>View Preview</summary><br>![F8](https://cdn.discordapp.com/attachments/1472852477593391267/1472971345074589871/7A3A3A26-9883-4E59-9AF6-6632A59A0364.png?ex=69a7a0b7&is=69a64f37&hm=02a2b4fc85d2649e8c7375c29f15ce14eaaf844477fb5843e5329269d5649016&)</details> |
